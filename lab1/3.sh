@@ -1,6 +1,5 @@
-echo "Enter fisrt number : "
+echo "Enter first number : " 
 read a
 echo "Enter second number : "
 read b
-#sum = $((a+b))
 echo "Sum of $((a)) + $((b)) = $((a+b))"

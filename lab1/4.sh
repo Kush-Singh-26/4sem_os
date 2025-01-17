@@ -1,4 +1,5 @@
-echo "Enter distance in cm : "
-read cm
-echo "Distance in m = $((cm/100))"
-echo "DIstance in km = $((cm/100000))" 
+echo "Enter first number"
+read a
+echo "Enter second number"
+read b
+echo "Difference : $((a)) - $((b)) = $((a-b))"

@@ -16,8 +16,6 @@ for ((i = 0; i < len - 1; i++)); do
     done
 done
 
-echo "Sorted Array: ${array[@]}"
-
 
 second_smallest=${array[1]}
 second_largest=${array[len-2]}
